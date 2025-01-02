@@ -1,0 +1,170 @@
+{
+  "main": {
+    "name":"Nasreen Akhter",
+    "description":"I have 2 or  more then 2 year's online and office base work experience in the field of web development. i am a expert UI/UX designer.",
+    "image":"Faiqa13.jpeg",
+    "bio":"My name is Nasreen Akhter. My technical expertise includes proficiency in HTML, CSS, JavaScript, and various front-end  as React.js ,HTML,Bootstrip,CSS.I have 2 or  more then 2 year's online and office base work experience in the field of web development. i am a expert UI/UX designer.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "Nasreeakhter44@gmail.com",
+    "phone": "+92-3284526399",
+    "github":"https://github.com/FaiqaNasreen",
+    "project":"https://faiqanasreen.github.io/NasreenAkhter-Portfolio/",
+    "address":{
+      "street":"(street No.1)",
+      "city":"(Lahore)",
+      "state":"(Pakistan)",
+      "zip": "(5400)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"file:///C:/Users/AMC/Desktop/CV/Nasreen%20Akhter(react.js).pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/habiba.ahmad.773981",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/nasreen-akhter-05a582223/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/habiba.ahmad.7739814/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/FaiqaNasreen",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here I can create a short write-up of my skills to show off to employers",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"Masters in Computer science (MCS)",
+        "graduated":"March 2023",
+        "description":"During my education i learn about the computer and i gain technical expertise includes proficiency in HTML, CSS, JavaScript, and various front-end  as React.js ,HTML,Bootstrip,CSS.I have 2 or  more then 2 year's online and office base work experience in the field of web development. i am a expert UI/UX designer."
+      },
+      {
+        "school":"College?",
+        "degree":"B.A in (ARTs)",
+        "graduated":"April 2019",
+        "description":"I can learn about computer and technology.So,thats why i can attend diffrent classes and learn about different languages."
+      }
+    ],
+    "work":[
+      {
+        "company":"Precise Teach",
+        "title":"React Frontend Web Developer ",
+        "years":"2022",
+        "description":"I can do job as web front end developer and with the help of  HTML, CSS, JavaScript, and various front-end  as React.js ,HTML,Bootstrip,CSS i can do greate jobe c0mplete my projects "
+      },
+      {
+        "company":"Nasreen as a Freelancer",
+        "title":"Front End web developer",
+        "years":"March 2022 - February 2024",
+        "description":"Highly motivated and impassioned Front-end Developer with 1 year experience in web development.I can comake more then 10 projects. A strong understanding of clients requirements and the ability to convert them into technical solutions. Plan, Design and implement high quality websites."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML",
+        "level":"100%"
+      },
+      {
+        "name":"CSS",
+        "level":"100%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"100%"
+      },
+      {
+        "name":"BootStrip",
+        "level":"100%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"API Interation",
+        "level":"100%"
+      },
+      {
+        "name":"Flutter",
+        "level":"20%"
+      },
+      {
+        "name":"JAVA",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title": "This is my portfolio",
+        "category": "This tells you about my work",
+        "image": "portfolio.png",
+        "url": "https://faiqanasreen.github.io/NasreenAk-Portfolio/",
+        "button": {
+          "text": "More Details",
+          "link": "https://faiqanasreen.github.io/NasreenAk-Portfolio/"
+        }},      
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"myresturent.png",
+        "url":"https://palmpine.vercel.app/"
+      },
+      {
+        "title":"My Dress Shope",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"My fession store.png",
+        "url":"https://faiqanasreen.github.io/dressshope.git.io/index.html"
+      },
+      {
+        "title":"Weather Application",
+        "category":"Website I built for weather update",
+        "image":"Weather Application.png",
+        "url":"https://faiqanasreen.github.io/weather-aplication/"
+      },
+      {
+        "title":"Fasion Word",
+        "category":"A react todo list",
+        "image":"fession world.png",
+        "url":"https://faiqanasreen.github.io/fasionword.github.io/"
+      },
+      {
+        "title":"React calculater",
+        "category":"I can make react calculater",
+        "image":"calculater.png",
+        "url":"https://faiqanasreen.github.io/react-calculater/"
+      },
+      
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"myresturent2.png",
+        "url":"https://palmpine.vercel.app/menue"
+      },
+      {
+        "title":"My Todo List",
+        "category":"This is my react To do List",
+        "image":"Todo List.png",
+        "url":"https://faiqanasreen.github.io/my-todo-lists/"
+      }
+    
+    ]
+  }
+}

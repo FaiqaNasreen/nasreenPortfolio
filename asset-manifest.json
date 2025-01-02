@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nasreenPortfolio/static/css/main.96e3b4a0.chunk.css",
+    "main.js": "/nasreenPortfolio/static/js/main.3bbf1b5b.chunk.js",
+    "main.js.map": "/nasreenPortfolio/static/js/main.3bbf1b5b.chunk.js.map",
+    "runtime-main.js": "/nasreenPortfolio/static/js/runtime-main.22e7e356.js",
+    "runtime-main.js.map": "/nasreenPortfolio/static/js/runtime-main.22e7e356.js.map",
+    "static/js/2.cffb4265.chunk.js": "/nasreenPortfolio/static/js/2.cffb4265.chunk.js",
+    "static/js/2.cffb4265.chunk.js.map": "/nasreenPortfolio/static/js/2.cffb4265.chunk.js.map",
+    "static/js/3.67735199.chunk.js": "/nasreenPortfolio/static/js/3.67735199.chunk.js",
+    "static/js/3.67735199.chunk.js.map": "/nasreenPortfolio/static/js/3.67735199.chunk.js.map",
+    "index.html": "/nasreenPortfolio/index.html",
+    "static/css/main.96e3b4a0.chunk.css.map": "/nasreenPortfolio/static/css/main.96e3b4a0.chunk.css.map",
+    "static/js/2.cffb4265.chunk.js.LICENSE.txt": "/nasreenPortfolio/static/js/2.cffb4265.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22e7e356.js",
+    "static/js/2.cffb4265.chunk.js",
+    "static/css/main.96e3b4a0.chunk.css",
+    "static/js/main.3bbf1b5b.chunk.js"
+  ]
+}
